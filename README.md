@@ -7,6 +7,7 @@
 **CONTEXTO** Sua equipe pertence uma empresa que deseja fazer uma ação de marketing em sites e redes sociais, para isso ela deseja identificar os termos que devem ser associados ao seu(s) produto(s)/serviço(s) (nos moldes do AdSense da Google) de forma a maximizar a possibilidade de o anúncio aparecer para seu público-alvo de forma positiva
 
 ##Etapas do projeto:
+
 1-Identificar uma área de negócio (Ex. Livros, Perfumes, Roupas Esportivas)
 2-Dentro  da  área  de  negócio  identificar  um  Produto/Serviço  específico  ou  uma Linha. (Ex. Livros:Um título ou Autor, Roupa Esportiva:Camisas deTime)
 3-Identificar pelo menos 20 sites (páginas dinâmicas) e pelo menos 1(uma) rede social  que  tenham  conteúdo  relevantes  para  divulgação  do  produto  para  seu público-alvo
