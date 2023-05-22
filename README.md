@@ -9,12 +9,12 @@
 ## Etapas do projeto:
 
 1. Identificar uma área de negócio (Ex. Livros, Perfumes, Roupas Esportivas)
-2. Dentro  da  área  de  negócio  identificar  um  Produto/Serviço  específico  ou  uma Linha. (Ex. Livros:Um título ou Autor, Roupa Esportiva:Camisas deTime)
-3. Identificar pelo menos 20 sites (páginas dinâmicas) e pelo menos 1(uma) rede social  que  tenham  conteúdo  relevantes  para  divulgação  do  produto  para  seu público-alvo
+2. Dentro  da  área  de  negócio  identificar  um  Produto/Serviço  específico  ou  uma Linha. (Ex. Livros: Um título ou Autor, Roupa Esportiva: Camisas deTime)
+3. Identificar pelo menos 20 sites (páginas dinâmicas) e pelo menos 1 (uma) rede social  que  tenham  conteúdo  relevantes  para  divulgação  do  produto  para  seu público-alvo
 4. Preparar o ambiente para processar os dados (PySpark e Jupyter)
-5. Processar esses dados contando palavras e apresentar as palavras de relevância com  maior  frequência.  Explicar  por  que  as palavrassão  relevantes  para  o produto/serviço e público-alvo.
-6. (DESAFIO) Verificar   a   ocorrênciae   frequênciade termosespecíficos(Ex.”Campeão Paulista”, “Yuval Harari”, “Quentin Tarantino”, “Garrafa Térmica”) e verificar se eles de fato são relevantes para anúncio do produto para o público-alvo.
-7. (DESAFIO)Identificar palavras/termos com alta frequência, mas em um contexto negativo para o público-alvo.
+5. Processar esses dados contando palavras e apresentar as palavras de relevância com  maior  frequência.  Explicar  por  que  as palavras são  relevantes  para  o produto/serviço e público-alvo.
+6. (DESAFIO) Verificar a ocorrência e frequência de termos específicos (Ex.”Campeão Paulista”, “Yuval Harari”, “Quentin Tarantino”, “Garrafa Térmica”) e verificar se eles de fato são relevantes para anúncio do produto para o público-alvo.
+7. (DESAFIO) Identificar palavras/termos com alta frequência, mas em um contexto negativo para o público-alvo.
 8. Desenvolver um Dashboard de forma apresentar os dados coletados (com tabelas e  gráficos)  de  forma  a  indicar  quais  palavras/termos  devem  ser  associados  ao produto/serviço a ser divulgado.
 
 Esse tipo de estudo pode também ser utilizado para verificar a audiência QUALITATIVA de um produto ou serviço. Por exemplo: Qual personagem da série está repercutindo mais  nas  redes  sociais?  Como  está  repercutindo  o  novo  produto/serviço  nos  canais digitais  da  crítica  especializada?  Como  está  repercutindo  a  atual  campanha  de divulgação de um produto/serviço nas mídias digitais?
