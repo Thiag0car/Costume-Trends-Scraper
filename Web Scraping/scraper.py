@@ -30,9 +30,16 @@ def extract_visible_text(url):
 
 
 # Junta todos os resultados
-textos = []
-for url in urls:
-    texto = extract_visible_text(url)
-    textos.append(result)
+#textos = []
+#for url in urls:
+#    texto = extract_visible_text(url)
+#    textos.append(result)
+#
+#print(textos)
 
-print(textos)
+# Roda site a site
+url = 'https://www.receiteria.com.br/receitas-de-festa-junina/#01'
+
+texto = extract_visible_text(url)
+
+print(texto)
