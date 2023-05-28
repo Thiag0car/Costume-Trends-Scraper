@@ -39,3 +39,11 @@ abrakadabra: <https://www.abrakadabra.com.br/adulto/festa-junina>
 superprof: <https://www.superprof.com.br/blog/aprendendo-coreografias-de-festejos-juninos/>
 
 receiteria: <https://www.receiteria.com.br/receitas-de-festa-junina/#01>
+
+guia do futuro: <https://guiadofuturo.com.br/qual-origem-festa-junina-comidas-historia-tradicao/>
+
+todoestudo: <https://www.todoestudo.com.br/historia/origem-da-festa-junina#2>
+
+pinkninas: <https://www.pinkninas.com.br/blog/14-playlists-para-fazer-a-sua-festa-junina-bombar/> (para esse site seria legal se conseguisses fazer o scraping dentro das playlists)
+
+estudo prático: <https://www.estudopratico.com.br/conheca-as-principais-letras-de-musicas-juninas/#Sonho_de_papel_%E2%80%93_Carlos_Braga_e_Alberto_Ribeiro>
