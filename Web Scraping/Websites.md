@@ -1,30 +1,30 @@
 # Costume-Trends-Scraper
 
-# João
+[Xalingo](https://blog.xalingo.com.br/tag/festa-junina/)
 
----
+[Blogwpensar](https://blog.wpensar.com.br/pedagogico/como-abordar-a-festa-junina-na-sala-de-aula/)
 
-xalingo: <https://blog.xalingo.com.br/tag/festa-junina/>
+[Sympla](https://www.sympla.com.br/eventos/festa-junina)
 
-wpensar: <https://blog.wpensar.com.br/pedagogico/como-abordar-a-festa-junina-na-sala-de-aula/>
+[Fazfacil](https://www.fazfacil.com.br/artesanato/festa-junina/)
 
-sympla: <https://www.sympla.com.br/eventos/festa-junina>
+[guiadasemana](https://www.guiadasemana.com.br/na-cidade/noticia/festas-juninas-em-sao-paulo-2022)
 
-fazfacil: <https://www.fazfacil.com.br/artesanato/festa-junina/>
+[Falabrasil](https://www.falabrasilschool.com/brazilian-june-party/)
 
-guiadasemana: <https://www.guiadasemana.com.br/na-cidade/noticia/festas-juninas-em-sao-paulo-2022>
+[Allaccor](https://all.accor.com/pt-br/brasil/magazine/one-hour-one-day-one-week/comidas-de-festa-junina-593a4.shtml#:~:text=Dentre%20os%20principais%20pratos%20est%C3%A3o,de%20milho%2C%20canjica%20e%20pamonha.&text=O%20coco%2C%20al%C3%A9m%20de%20ser,para%20voc%C3%AA%20explorar%20novas%20receitas>)
 
-# bia
+[Fashionbubbles](https://www.fashionbubbles.com/festas-tematicas/qual-a-origem-dos-trajes-tipicos-das-festas-juninas/)
 
----
+[Senac](https://www.df.senac.br/faculdade/origem-da-festa-junina/#:~:text=Durante%20as%20festas%20juninas%20no,de%20caipira%20de%20maneira%20caricata>)
 
-falabrasil: <https://www.falabrasilschool.com/brazilian-june-party/>
+[Concursosnobrasil](https://concursosnobrasil.com/escola/cultura/festa-junina.html)
 
-allaccor: <https://all.accor.com/pt-br/brasil/magazine/one-hour-one-day-one-week/comidas-de-festa-junina-593a4.shtml#:~:text=Dentre%20os%20principais%20pratos%20est%C3%A3o,de%20milho%2C%20canjica%20e%20pamonha.&text=O%20coco%2C%20al%C3%A9m%20de%20ser,para%20voc%C3%AA%20explorar%20novas%20receitas>!
+[Catraca livre](https://catracalivre.com.br/estilo/24-looks-de-festa-junina-com-pecas-que-voce-tem-no-guarda-roupa/)
 
-fashionbubbles: <https://www.fashionbubbles.com/festas-tematicas/qual-a-origem-dos-trajes-tipicos-das-festas-juninas/>
+[Abrakadabra](https://www.abrakadabra.com.br/adulto/festa-junina)
 
-senac: <https://www.df.senac.br/faculdade/origem-da-festa-junina/#:~:text=Durante%20as%20festas%20juninas%20no,de%20caipira%20de%20maneira%20caricata>.
+[Superprof](https://www.superprof.com.br/blog/aprendendo-coreografias-de-festejos-juninos/)
 
 concursosnobrasil: <https://concursosnobrasil.com/escola/cultura/festa-junina.html>
 
@@ -39,11 +39,3 @@ abrakadabra: <https://www.abrakadabra.com.br/adulto/festa-junina>
 superprof: <https://www.superprof.com.br/blog/aprendendo-coreografias-de-festejos-juninos/>
 
 receiteria: <https://www.receiteria.com.br/receitas-de-festa-junina/#01>
-
-guia do futuro: <https://guiadofuturo.com.br/qual-origem-festa-junina-comidas-historia-tradicao/>
-
-todoestudo: <https://www.todoestudo.com.br/historia/origem-da-festa-junina#2>
-
-pinkninas: <https://www.pinkninas.com.br/blog/14-playlists-para-fazer-a-sua-festa-junina-bombar/> (para esse site seria legal se conseguisses fazer o scraping dentro das playlists)
-
-estudo prático: <https://www.estudopratico.com.br/conheca-as-principais-letras-de-musicas-juninas/#Sonho_de_papel_%E2%80%93_Carlos_Braga_e_Alberto_Ribeiro>
