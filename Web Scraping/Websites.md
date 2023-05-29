@@ -25,17 +25,3 @@
 [Abrakadabra](https://www.abrakadabra.com.br/adulto/festa-junina)
 
 [Superprof](https://www.superprof.com.br/blog/aprendendo-coreografias-de-festejos-juninos/)
-
-concursosnobrasil: <https://concursosnobrasil.com/escola/cultura/festa-junina.html>
-
-# Thiago
-
----
-
-catraca livre: <https://catracalivre.com.br/estilo/24-looks-de-festa-junina-com-pecas-que-voce-tem-no-guarda-roupa/>
-
-abrakadabra: <https://www.abrakadabra.com.br/adulto/festa-junina>
-
-superprof: <https://www.superprof.com.br/blog/aprendendo-coreografias-de-festejos-juninos/>
-
-receiteria: <https://www.receiteria.com.br/receitas-de-festa-junina/#01>
