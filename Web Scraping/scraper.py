@@ -10,7 +10,7 @@ with open('Web Scraping/Websites.md', 'r') as file:
     sites = file.read()
 
 # Find all HTTPS URLs using regular expressions
-urls = re.findall(r'https://[^\s]+', sites)
+urls = re.findall(r'https://[\w\.-]+', sites)
 
 # Ver apenas texto visível
 def is_visible(element):
@@ -28,18 +28,19 @@ def extract_visible_text(url):
     visible_texts = (text.strip() for text in soup.find_all(string=is_visible))
     return " ".join(visible_texts)
 
-
-# Junta todos os resultados
-#textos = []
-#for url in urls:
-#    texto = extract_visible_text(url)
-#    textos.append(result)
-#
-#print(textos)
-
 # Roda site a site
-url = 'https://www.receiteria.com.br/receitas-de-festa-junina/#01'
+def teste(url):
+    texto = extract_visible_text(url)
+    print(texto)
 
-texto = extract_visible_text(url)
 
-print(texto)
+arquivo_path = 'Web Scraping/textos_sites.txt'
+
+with open(arquivo_path, "w", encoding="utf-8") as arquivo:
+    for url in urls:
+        print(url)
+        texto = extract_visible_text(url)
+        arquivo.write(texto + "\n")
+
+
+#teste(urls[0])
