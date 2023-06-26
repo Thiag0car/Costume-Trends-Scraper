@@ -110,7 +110,7 @@ Dentro as dezenas de sites que analisamos ao decorrer desse projeto, aqui estão
 | www.all.accor.com | 29 | 11 | 7 | 3 | 4 | 1 | 1 | 2 | **58** |
 |**TOTAL** | **421** | **247** | **47** | **139** | **12** | **46** | **1** | **9** | ***922*** |
 
-Dentre essas opções, recomendaria fortemente que minha equipe investisse no site 'www.sympla.com.br', pois ocupa a segunda posição entre os sites com maior relevância de palavras. Seu conteúdo está focado na venda de ingressos para eventos, e de acordo com nossas pesquisas, a maioria dos eventos atualmente são de festas juninas.
+Dentre essas opções, recomendaria fortemente que minha equipe investisse no site 'www.sympla.com.br', pois ocupa a terceira posição entre os sites com maior relevância de palavras. Seu conteúdo está focado na venda de ingressos para eventos, e de acordo com nossas pesquisas, a maioria dos eventos atualmente são de festas juninas.
 
 
 
