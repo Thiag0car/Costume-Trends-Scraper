@@ -57,8 +57,20 @@ Através de análises feitas nosso grupo concluiu que dia 20/5 é um bom dia par
 
 
 ## 3.2 Resultado WordCloud das redes:
-<img align="Center" src="img/wordcloud_redes.png" width="100%" >
+<img align="Center" src="img/wordcloud_redes.png" width="90%" >
 
 As palavras que foram escolhidas para validar estão nessa tabela a esquerda, nós escolhemos a dedo qual delas nos iriamos utilizar.
+A Contagem de palavras é feita utilizando Pyspark
+
+# 4. Web Scraping / WordCloud
+Cada integrante do grupo escolheu de 5-7 sites a dedo que achamos que tinha relação com o tema da festa junina, o objetivo é usar as palavras frequentemente usada na nossa comunidade (redes socias) para selecionar apenas alguns sites mais adequados para a realização dos nossos anúncios.
+
+O WordCloud de todos os sites que nos reunimos ficou assim:
+
+<img align="Center" src="img/wordcloud_sites.png" width="90%" >
+
+A existência de vários termos diferentes em relação aos das redes sociais representa a necessidade de filtrar muitos dos sites que podem não ter muito a ver com o nosso público-alvo.
+A Contagem de palavras é feita utilizando Pyspark
+
 
 
