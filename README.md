@@ -107,7 +107,8 @@ Escolhemos esses sites para anunciar os produtos.
 | www.catracalivre.com.br | 13 | 9 | 0 | 0 | 0 | 4 | 0 | 0 | **26** |
 | www.brasilescola.uol.com.br | 54 | 49 | 6 | 4 | 1 | 0 | 0 | 0 | **114** |
 | www.blog.xalingo.com.br | 83 | 41 | 8 | 28 | 6 | 25 | 0 | 2 | **193** |
-|**TOTAL** | **392** | **236** | **40** | **136** | **8** | **45** | **0** | **7** | ***864*** |
+| www.all.accor.com | 29 | 11 | 7 | 3 | 4 | 1 | 1 | 2 | **58** |
+|**TOTAL** | **421** | **247** | **47** | **139** | **12** | **46** | **1** | **9** | ***922*** |
 
 
 
