@@ -14,17 +14,17 @@ Essa abordagem nos permitirá direcionar nossa publicidade de forma estratégica
 
 ![estrutura](https://github.com/Thiag0car/Costume-Trends-Scraper/assets/88406808/9a525eff-4530-4ac8-ac6b-a0fe727ecb6e)
 
-(1) A primeira etapa do nosso projeto consiste em identificar comunidades relacionadas aos nossos produtos. Para alcançar esse objetivo, utilizamos as redes sociais como uma ferramenta fundamental. Nesse sentido, optamos por utilizar a plataforma Brand24, que nos permite coletar e centralizar publicações de diversas redes sociais, baseando-se em hashtags e palavras-chave relevantes para o nosso negócio. Com o auxílio do Brand24, conseguimos obter um amplo panorama das discussões e interações relacionadas aos nossos produtos nas redes sociais mais populares, como TikTok, Twitter, YouTube, entre outros sites relevantes.
+(1) Na primeira etapa do projeto, identificamos comunidades relacionadas aos nossos produtos usando as redes sociais. Utilizamos a plataforma Brand24 para coletar e centralizar publicações de várias redes sociais, com base em hashtags e palavras-chave relevantes para o nosso negócio. Isso nos permitiu ter uma visão abrangente das discussões e interações relacionadas aos nossos produtos em plataformas populares como TikTok, Twitter, YouTube, entre outros.
 
-(2) Definimos uma quantidade de palavras relacionadas às festas juninas com base na frequência com que essas palavras aparecem nas Redes Sociais, o que serviu para validar os sites escolhidos mais para frente.
+(2) Definimos uma lista de palavras relacionadas às festas juninas com base em sua frequência de aparição nas redes sociais. Essa lista serviu para validar os sites selecionados posteriormente.
 
-(3) Nessa etapa, os integrantes do grupo selecionam cuidadosamente os sites que podem estar relacionados ao nosso produto. As palavras selecionadas das redes sociais desempenham um papel importante na validação desses sites, analisando a semelhança entre as palavras encontradas nos sites e aquelas extraídas das redes sociais. Essa comparação nos permite determinar se um site é adequado para receber a estratégia de marketing do nosso produto, levando em consideração a relevância e a conexão entre as palavras-chave utilizadas nos sites e aquelas identificadas nas redes sociais.
+(3) Nessa etapa, os membros do grupo selecionam cuidadosamente os sites potencialmente relacionados ao nosso produto. Em seguida, eles passam por um processo de validação, comparando os sites com as palavras coletadas das redes sociais e avaliando a semelhança entre elas. Isso nos permite determinar se um site é adequado ou não para a nossa estratégia de marketing.
 
-(4) Após essa validação, o grupo seleciona os 10 sites mais relacionados com nosso produto para fazer os anúncios.
+(4) Após a validação, restam apenas alguns dos sites mais relevantes para fazer os anúncios.
 
-(5) (Desafio - 7) A análise de sentimento é utilizada para identificar quais palavras são citadas em contextos negativos. O Brand24 disponibiliza ferramentas que ajudam nessa análise.
+(5) Utilizamos a análise de sentimento para identificar palavras mencionadas em contextos negativos. O Brand24 oferece ferramentas que auxiliam nessa análise.
 
-(6) (Desafio - 6) A análise de bigramas básicamente serve para visualizar quais palavras aparecem frequentemente juntas, sendo assim revelando combinações comuns de palavras (ou palavras compostas) e fornece insights sobre a estrutura do texto e o contexto das palavras
+(6) A análise de bigramas nos permite visualizar combinações frequentes de palavras, revelando insights sobre a estrutura do texto e o contexto das palavras.
 
 # 3. Scraping das Redes Sociais
 
@@ -53,7 +53,7 @@ Essas palavras-chave nos ajudarão a identificar o conteúdo mais relevante rela
 
 A análise de frequência por dia nos permite visualizar quando as citações começam a aumentar e, portanto, em que época do ano devemos começar a investir em marketing do nosso produto. Isso é especialmente importante, uma vez que nosso produto é sazonal, e investir nas horas erradas pode causar prejuízos.
 
-Através de análises feitas nosso grupo concluiu que dia 20/5 é um bom dia para começar investimentos, visto que é quando as cirações começam a aumentar de forma mais consideravel. Não esta ilustrado, mas nosso grupo também coletou uma amostra de dados entre dia 17/5 até dia 26/5 o que ajudou nessa conclusão
+Através de análises feitas nosso grupo concluiu que dia 20/5 é um bom dia para começar investimentos, visto que é quando as citações começam a aumentar de forma mais consideravel. Não esta ilustrado, mas nosso grupo também coletou uma amostra de dados entre dia 17/5 até dia 26/5 o que ajudou nessa conclusão
 
 
 ## 3.2 Resultado WordCloud das redes
@@ -94,9 +94,9 @@ O WordCloud de todos os sites que nos reunimos ficou assim:
 A existência de vários termos diferentes em relação aos das redes sociais representa a necessidade de filtrar muitos dos sites que podem não ter muito a ver com o nosso público-alvo.
 A Contagem de palavras é feita utilizando Pyspark
 
-# 5. Escolha do sites
+# 5. Conclusão
 
-Escolhemos esses sites para anunciar os produtos.
+Dentro as dezenas de sites que analisamos ao decorrer desse projeto, aqui estão os sites que escolhemos para anunciar nossos produtos junto as palavras que aparecerem em cada um deles.
 
 | Sites |  festa | junina | comidas | joão | milho | junho | canjica | quentão | Soma das palavras relevantes |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
@@ -109,6 +109,10 @@ Escolhemos esses sites para anunciar os produtos.
 | www.blog.xalingo.com.br | 83 | 41 | 8 | 28 | 6 | 25 | 0 | 2 | **193** |
 | www.all.accor.com | 29 | 11 | 7 | 3 | 4 | 1 | 1 | 2 | **58** |
 |**TOTAL** | **421** | **247** | **47** | **139** | **12** | **46** | **1** | **9** | ***922*** |
+
+Dentre essas opções, recomendaria fortemente que minha equipe investisse no site 'www.sympla.com.br', pois ocupa a segunda posição entre os sites com maior relevância de palavras. Seu conteúdo está focado na venda de ingressos para eventos, e de acordo com nossas pesquisas, a maioria dos eventos atualmente são de festas juninas.
+
+
 
 
 
