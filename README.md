@@ -56,14 +56,36 @@ A análise de frequência por dia nos permite visualizar quando as citações co
 Através de análises feitas nosso grupo concluiu que dia 20/5 é um bom dia para começar investimentos, visto que é quando as cirações começam a aumentar de forma mais consideravel. Não esta ilustrado, mas nosso grupo também coletou uma amostra de dados entre dia 17/5 até dia 26/5 o que ajudou nessa conclusão
 
 
-## 3.2 Resultado WordCloud das redes:
+## 3.2 Resultado WordCloud das redes
 <img align="Center" src="img/wordcloud_redes.png" width="90%" >
 
 As palavras que foram escolhidas para validar estão nessa tabela a esquerda, nós escolhemos a dedo qual delas nos iriamos utilizar.
 A Contagem de palavras é feita utilizando Pyspark
 
-# 4. Web Scraping / WordCloud
+# 4. Web Scraping 
 Cada integrante do grupo escolheu de 5-7 sites a dedo que achamos que tinha relação com o tema da festa junina, o objetivo é usar as palavras frequentemente usada na nossa comunidade (redes socias) para selecionar apenas alguns sites mais adequados para a realização dos nossos anúncios.
+
+## 4.1 Análise de bigramas
+
+A análise de bigramas básicamente serve para visualizar quais palavras aparecem frequentemente juntas, sendo assim revelando combinações comuns de palavras (ou palavras compostas) e fornece insights sobre a estrutura do texto e o contexto das palavras
+
+Essa analise será feitas com todos os sites que nossa equipe selecionou que podem ter a ver com o nosso tema, e com isso, o csv utilizado é 'dados_sites.csv'.
+
+referentes a público-alvo:
+* (brasil,escola) com frequencia de 765
+* (ensino,médio) com frequencia de 317
+* (diversão, educando) com frequencia de 256
+
+referentes a época:
+* (fim, semana) com frequencia de 2004
+* (final,semana) com frequencia de 349
+
+referentes a local:
+* (parque, ibirapuera) com frequencia de 266
+
+Os bigramas de público-alvo ajudou o nosso grupo a perceber a necessidade de buscar mais sites relacionados ao público infantil, então depois disso escolhemos mais alguns sites para participarem do processo de validação, como por exemplo o site da loja ABRAKADABRA.
+
+## 4.2 Resultado WordCloud dos sites
 
 O WordCloud de todos os sites que nos reunimos ficou assim:
 
@@ -71,6 +93,21 @@ O WordCloud de todos os sites que nos reunimos ficou assim:
 
 A existência de vários termos diferentes em relação aos das redes sociais representa a necessidade de filtrar muitos dos sites que podem não ter muito a ver com o nosso público-alvo.
 A Contagem de palavras é feita utilizando Pyspark
+
+# 5. Escolha do sites
+
+Escolhemos esses sites para anunciar os produtos.
+
+| Sites |  festa | junina | comidas | joão | milho | junho | canjica | quentão | Soma das palavras relevantes |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| www.sympla.com.br | 83 | 17 | 8 | 22 | 0 | 14 | 0 | 4 | **148** |
+| www.fazfacil.com.br | 16 | 10 | 1 | 2 | 1 | 2 | 0 | 1 | **33** |
+| www.abrakadabra.com.br | 49 | 42 | 0 | 0 | 0 | 0 | 0 | 0 | **91** |
+| www.guia.folha.uol.com.br | 94 | 68	 | 17 | 80 | 0 | 0 | 0 | 0 | **259** |
+| www.catracalivre.com.br | 13 | 9 | 0 | 0 | 0 | 4 | 0 | 0 | **26** |
+| www.brasilescola.uol.com.br | 54 | 49 | 6 | 4 | 1 | 0 | 0 | 0 | **114** |
+| www.blog.xalingo.com.br | 83 | 41 | 8 | 28 | 6 | 25 | 0 | 2 | **193** |
+|**TOTAL** | **392** | **236** | **40** | **136** | **8** | **45** | **0** | **7** | ***864*** |
 
 
 
