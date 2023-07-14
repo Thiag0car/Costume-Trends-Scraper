@@ -69,7 +69,7 @@ Cada integrante do grupo escolheu de 5-7 sites a dedo que achamos que tinha rela
 
 A análise de bigramas básicamente serve para visualizar quais palavras aparecem frequentemente juntas, sendo assim revelando combinações comuns de palavras (ou palavras compostas) e fornece insights sobre a estrutura do texto e o contexto das palavras
 
-Essa analise será feitas com todos os sites que nossa equipe selecionou que podem ter a ver com o nosso tema, e com isso, o csv utilizado é 'dados_sites.csv'.
+Essa analise foi feita com todos os sites que nossa equipe selecionou que podem ter a ver com o nosso tema, e com isso, o csv utilizado é 'dados_sites.csv'.
 
 referentes a público-alvo:
 * (brasil,escola) com frequencia de 765
